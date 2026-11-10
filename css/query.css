@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+}
+
+@media (min-width: 900px) {
+    h1 {
+        color: red;
+        font-size: 80px;
+    }
+}
+
+div {
+    width: 1050px;
+    height: 200px;
+    background-color: black;
+}
