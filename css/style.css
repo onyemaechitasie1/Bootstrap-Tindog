@@ -2,9 +2,14 @@
     background-color: #ff4c68;
 }
 
+ul .dropdown-menu {
+    background-color: #ff4c64;
+    color: #fff;
+}
+
 .text {
     font-family: "Montserrat";
-    font-size: 5rem;
+    font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 900;
     color: white;
@@ -35,25 +40,25 @@
 }
 
 .dog-img {
-    width: 24rem;
+    width: 20rem;
     transform: rotate(20deg);
     position: absolute;
     right: 25%;
 }
 
 #features {
-    padding: 7% 15%;
+    padding: 7% 10%;
     background-color: #fff;
     position: relative;
 }
 
 .feature-box {
     text-align: center;
-    padding: 3%;
+    padding: 2%;
 }
 
 h3 {
-    font-family: "Montserrat";
+    font-family: "Montserrat" sans-serif;
     font-weight: 800;
 }
 
